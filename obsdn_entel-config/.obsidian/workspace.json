@@ -1,0 +1,378 @@
+{
+  "main": {
+    "id": "8d687fe6239194f0",
+    "type": "split",
+    "children": [
+      {
+        "id": "20ba1467872b7a24",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1d553803d9b83dd8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Welcome.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Welcome"
+            }
+          },
+          {
+            "id": "bd05b31a441a88bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CyberArk.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CyberArk"
+            }
+          },
+          {
+            "id": "c10e22d61bb4bcb7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Clarity.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Clarity"
+            }
+          },
+          {
+            "id": "2d7d78918d556840",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "accesos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "accesos"
+            }
+          },
+          {
+            "id": "d58c315b8066ecdb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.0 configuración de software.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.0 configuración de software"
+            }
+          },
+          {
+            "id": "89f3b605fa99ff86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.1 Instalación de software.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.1 Instalación de software"
+            }
+          },
+          {
+            "id": "a286c05689cd114a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.2 dbeaver.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.2 dbeaver"
+            }
+          },
+          {
+            "id": "7b76ea13c9c8062f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.0 configuración de software.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.0 configuración de software"
+            }
+          },
+          {
+            "id": "d053c7089b129ad9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Onboarding.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Onboarding"
+            }
+          },
+          {
+            "id": "0bedce8e365b4021",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Clarity.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Clarity"
+            }
+          },
+          {
+            "id": "e8abc7ead8d12675",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "44bc57fc87a8cd68",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.0 configuración de software.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.0 configuración de software"
+            }
+          }
+        ],
+        "currentTab": 11
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "09691cb75c5ac758",
+    "type": "split",
+    "children": [
+      {
+        "id": "6778b7dd9648aad8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "75a2d421804c8a21",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "9eb1dfe51dcc80cb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "1432c0df2f69a8c8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d4e293f158370758",
+    "type": "split",
+    "children": [
+      {
+        "id": "d2af1d84a531f207",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bc6e3ba5fbd8ca33",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "oci/notebook/Notebooks.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "e344f9ac8917275d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "oci/notebook/Notebooks.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "3c43a353d196a339",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "16792222fdcf6914",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "fc5d982a75cc3bbe",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "oci/notebook/Notebooks.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false
+    }
+  },
+  "active": "44bc57fc87a8cd68",
+  "lastOpenFiles": [
+    "1.4 Oracle SQL Developer.md",
+    "OCI.md",
+    "versiones SW.md",
+    "Onboarding.md",
+    "CyberArk.md",
+    "accesos.md",
+    "Clarity.md",
+    "Conexion OCI.md",
+    "1.0 configuración de software.md",
+    "1.1 Instalación de software.md",
+    "1.2 dbeaver.md",
+    "BitBucket.md",
+    "assets/images/c1006eb955193a0e97773c7a102ca503_MD5.png",
+    "assets/images/Untitled-20260907134643.png",
+    "assets/images/9afe765ab1aff1978a1978c73f402960_MD5.png",
+    "assets/images/Untitled-20260907134642.png",
+    "assets/images/e5a1505cdb214fa83c0eb092d37ec85c_MD5.png",
+    "assets/images/Instalación de software-20260907134322.png",
+    "assets/images/115d95195eb692824b234714d695c46e_MD5.png",
+    "assets/images/Instalación de software-20260907134321.png",
+    "assets/images/configuración de software-20260907134148.png",
+    "assets/images/Untitled-20260907133826.png",
+    "oci/notebook/Notebooks.md",
+    "assets/images",
+    "assets",
+    "oci/notebook",
+    "oci",
+    "elpis"
+  ]
+}

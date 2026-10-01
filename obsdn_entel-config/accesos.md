@@ -1,0 +1,15 @@
+| Nombre          | Descripción                      | URL                                                                                                                                                              |
+| --------------- | -------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| #SoyEntel       | Portal corporativo               | [https://soyentel.com/](https://soyentel.com/)                                                                                                                   |
+| GIE             | Gestión Integrada Entel          | [https://gie.soyentel.com/](https://gie.soyentel.com/)                                                                                                           |
+| Success Factors | RRHH                             | [https://performancemanager4.successfactors.com/sf/home?bplte_company=EntelPE#/](https://performancemanager4.successfactors.com/sf/home?bplte_company=EntelPE#/) |
+| Clarity PPM     | Project and Portfolio Management | [https://entelclarity.entel.cl/niku/nu](https://entelclarity.entel.cl/niku/nu)                                                                                   |
+| Helix           | Soporte                          | [https://entelhelix-dwp.onbmc.com/dwp/app/](https://entelhelix-dwp.onbmc.com/dwp/app/)                                                                           |
+| Zscaler         | VPN                              | [https://zscaler.soyentel.com/](https://zscaler.soyentel.com/)                                                                                                   |
+| CyberArk        | Aplicaciones                     | [https://entel.cyberark.cloud/privilegecloud/Accounts](https://entel.cyberark.cloud/privilegecloud/Accounts)                                                     |
+| Jira            | Tickets                          | [https://tdentel.atlassian.net/servicedesk/customer/portals](https://tdentel.atlassian.net/servicedesk/customer/portals)                                         |
+| OCI             | Oracle Cloud Infrastructure      | [https://cloud.oracle.com/applications](https://cloud.oracle.com/applications)                                                                                   |
+| Control-M PE    | Control-M Perú                   | [https://os-controlm.entel.pe/ControlM/](https://os-controlm.entel.pe/ControlM/)                                                                                 |
+| Control-M CL    | Control-M Chile                  | [https://entelprd.prod.us2.controlm.com/ControlM/Monitoring/ViewpointsHome](https://entelprd.prod.us2.controlm.com/ControlM/Monitoring/ViewpointsHome)           |
+
+/
